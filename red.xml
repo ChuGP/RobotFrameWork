@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>PROJECT</relativeTo>
+    <referencedLibrary type="PYTHON" name="dctSeleniumLibrary" path=""/>
+    <referencedLibrary type="PYTHON" name="dctlib.request.UserManager" path=""/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path=""/>
+    <referencedLibrary type="PYTHON" name="dctlib.request.settings" path=""/>
+    <referencedLibrary type="PYTHON" name="PlanToDecomm" path="test_automation/End-to-end test/Plan to decomm"/>
+    <referencedLibrary type="PYTHON" name="Collections" path=""/>
+    <referencedLibrary type="PYTHON" name="RegressionTest" path="test_automation/Regression Test"/>
+    <referencedLibrary type="PYTHON" name="PlanToDecomm" path="test_automation/End-to-end test/Plan to decomm"/>
+    <pythonpath>
+        <path location="."/>
+    </pythonpath>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+    <isReferencedLibrariesAutoReloadEnabled>true</isReferencedLibrariesAutoReloadEnabled>
+    <isReferencedLibrariesAutoDiscoveringEnabled>true</isReferencedLibrariesAutoDiscoveringEnabled>
+    <isLibrariesAutoDiscoveringSummaryWindowEnabled>false</isLibrariesAutoDiscoveringSummaryWindowEnabled>
+</projectConfiguration>
